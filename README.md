@@ -1,3 +1,40 @@
+<p align="center">
+    <a href="https://github.com/Oviainc/autogen-ovia-inc">
+        <img src="https://microsoft.github.io/autogen/0.2/img/ag.svg" width="200" alt="Ovia Inc — AutoGen logo" />
+    </a>
+</p>
+
+# AutoGen — Ovia Inc
+
+> **AutoGen** is the Ovia Inc fork of [microsoft/autogen](https://github.com/microsoft/autogen), a framework for creating multi-agent AI applications that can act autonomously or work alongside humans.
+## What this project is
+AutoGen is a framework for creating multi-agent AI applications that can act autonomously or work alongside humans. It provides AgentChat for conversational multi-agent applications, AutoGen Studio for no-code building, and extensions for model clients and tools.
+
+## Why this project sits in the OVIA collection
+
+AutoGen sits in the OVIA collection for AI agents. Multi-agent conversation is core to the work the collection supports, and AutoGen is the Microsoft framework for building conversational multi-agent applications, with AgentChat, AutoGen Studio, and extensions for model clients and tools.
+
+## Story
+
+AutoGen was selected from the OVIA standing shortlist and approved on November 15, 2026. The project was chosen on the strength of its own material: a widely used framework for creating multi-agent AI applications, with AgentChat for conversational agents and AutoGen Studio for no-code building. The upstream project is archived and no longer maintained by Microsoft, and its enterprise-ready successor is Microsoft Agent Framework. This fork preserves AutoGen in the OVIA collection for reference, with the upstream content below unchanged.
+
+## OVIA modifications
+
+Forked from [microsoft/autogen](https://github.com/microsoft/autogen) on November 15, 2026.
+
+OVIA modifications are limited to this README section and repository metadata unless stated otherwise.
+
+The code is unchanged from the fork point.
+
+Credit remains with the upstream authors, and the licences are preserved: MIT License for code and Creative Commons Attribution 4.0 International (CC-BY-4.0) for documentation.
+
+---
+
+
+
+
+
+
 <a name="readme-top"></a>
 
 <div align="center">
